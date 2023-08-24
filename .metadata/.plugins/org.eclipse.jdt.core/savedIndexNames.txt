@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+/home/saikat/Documents/CompetitiveCoding/.metadata/.plugins/org.eclipse.jdt.core
-1865797976.index
-2949097923.index
-416536789.index
