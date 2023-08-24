@@ -4,6 +4,11 @@ Visit this website and view Questions on Coding -> this one is 1st Question
 
 */
 
+/*
+ * Contributed by : Saikat Roy
+ * Email : rsaikat415@gmail.com
+ */
+
 package fromVariousSources;
 
 import java.util.Scanner;

@@ -6,6 +6,14 @@ Visit this website and view Questions on Coding -> this one is 2nd Question
 
 */
 
+
+
+/*
+ * Contributed by : Saikat Roy
+ * Email : rsaikat415@gmail.com
+ */
+
+
 import java.util.Scanner;
 
 public class WileyEdgeSampleQ2 {
