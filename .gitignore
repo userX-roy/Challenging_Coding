@@ -1,3 +1,6 @@
-Challenging_Coding/bin/*
+*.class
+Challenging_Coding/.settings
+Challenging_Coding/.classpath
+Challenging_Coding/.project
 .metadata
 
