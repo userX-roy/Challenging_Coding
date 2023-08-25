@@ -17,14 +17,13 @@ public class HackerEarth1 {
 	static Scanner sc = new Scanner(System.in);
 
 	public static void main(String args[]) throws Exception {
-		int testCase, numberOfEle, i = 0, counter = 0;
+		int testCase, i = 0, counter = 0;
 		testCase = sc.nextInt();
 		int[] outPut = new int[testCase];
 
 		while (i < testCase) {
 			counter = 0;
-			numberOfEle = sc.nextInt();
-			int[] elearr = new int[numberOfEle];
+			int[] elearr = new int[sc.nextInt()];
 
 			for (int j = 0; j < elearr.length; j++) {
 				elearr[j] = sc.nextInt();
