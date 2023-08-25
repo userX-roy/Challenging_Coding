@@ -1,12 +1,13 @@
 //Q:->  https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/subarray-3-3dbc3f50/
 
-
-
-
-/*
+/* 
+ * Contributed by : Saikat Roy
+ * Modified by :
+ * Email : rsaikat415@gmail.com
+ * 
  * Approach : Count the number of 1's pair.
- * means : 1 1 1 0 0 0 1 -> 1 swap
- * 		 : 1 0 1 1 1 1 0 0 1 0 1 0 1 0 1 0 0 0 ->	
+ * means : 1 1 1 0 0 0 1 -> 1 swap (for index 0 and 1)
+ * 		 : 1 0 1 1 0 0 0 0 1 0 1 0 1 0 1 1 1 0 0 0 ->	2 swap (for index (2,3) , (14,15));
  */
 
 package hackerEarth;
